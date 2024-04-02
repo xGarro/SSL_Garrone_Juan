@@ -1,2 +1,2 @@
 # SSL_Garrone_Juan
-sintaxis
+Primera vez usando GitHub para la sintaxis y semántica de los lenguajes en la UTN.
